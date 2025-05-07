@@ -6,7 +6,7 @@
 </div>
 
 - 📖 Exploring Godot alongside basic frontend web design.
-- 🛠️ Working on my [Deepsea Roguelike Adventure Game](https://github.com/MHNV/Enter-the-Hadal)
+- 🛠️ Working on my [Deepsea Roguelike Adventure Game](https://github.com/MHNV/Enter-the-Hadal) and my [GithubPage](https://mhnv.github.io/)
 - 🗨️ Suggestions for new features and project enhancements are always welcome.
 - 🎵 Music production is another area I'm exploring
 - 💚 As a big fan of Hatsune Miku, I'm excited about the possibility of integrating her into a future music software project!
